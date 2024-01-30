@@ -5,7 +5,10 @@
         android:title="Nhập Vào"
         android:icon="@drawable/icon_nhapvao" />
 
-
+    <item
+        android:id="@+id/calendar"
+        android:title="Lịch"
+        android:icon="@drawable/icon_calendar" />
 
     <item
 
